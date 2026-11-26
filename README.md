@@ -27,9 +27,15 @@ Another way is to open is through START icon of MATLAB Start ⇒ Simulink ⇒ Li
 7.	Save the file. 
 8.	Analyze and record your inference.
 
-## Observation
+## CIRCUIT DIAGRAM
+<img width="1245" height="615" alt="image" src="https://github.com/user-attachments/assets/9ab1dea1-85d0-49db-a529-a7838eb10e6c" />
 
-<img width="886" height="420" alt="image" src="https://github.com/user-attachments/assets/7f6095ad-aaef-403a-8f89-784ecea36287" />
+## Observation
+<img width="1503" height="1502" alt="image" src="https://github.com/user-attachments/assets/91dfb4c6-a65b-4602-82e0-013da2a95b68" />
+
+## GRAPH
+<img width="1051" height="402" alt="image" src="https://github.com/user-attachments/assets/ed25604b-20b2-487d-b506-28a44998bebf" />
 
 
 ## Result
+Thus to simulate the speed control of DC motor using chopper has been simulated and verified successfully.
